@@ -10,10 +10,10 @@ Saya siswa kelas 11 jurusan Rekayasa Perangkat Lunak (RPL). Saya memiliki minat 
 - **Database:** MySQL
 
 ## Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=jefri&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=JerryBugar&show_icons=true&theme=radical)
 
 ## Bahasa yang Sering Digunakan
-![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=jefri&layout=compact&theme=radical)
+![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryBugar&layout=compact&theme=radical)
 
 ## Hubungi Saya
 - 📫 Email: [jefridocs@gmail.com]
