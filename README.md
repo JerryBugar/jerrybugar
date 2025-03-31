@@ -1,16 +1,23 @@
-## Hi there 👋
+# Halo, Saya Jefri! 👋
 
-<!--
-**JerryBugar/jerrybugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya
+Saya siswa kelas 11 jurusan Rekayasa Perangkat Lunak (RPL). Saya memiliki minat yang kuat dalam pengembangan aplikasi dan senantiasa meningkatkan keterampilan programming saya.
 
-Here are some ideas to get you started:
+## Keterampilan 💻
+- **Bahasa Pemrograman:** JavaScript, PHP, C++, Java, Python
+- **Frontend:** HTML, CSS, Bootstrap, Vue.js
+- **Backend:** Laravel, Node.js
+- **Database:** MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statistik GitHub
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=jefri&show_icons=true&theme=radical)
+
+## Bahasa yang Sering Digunakan
+![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=jefri&layout=compact&theme=radical)
+
+## Hubungi Saya
+- 📫 Email: [jefridocs@gmail.com]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/jefribuakar]
+
+---
+⭐️ Dari [jefri](https://github.com/JerryBugar) 
