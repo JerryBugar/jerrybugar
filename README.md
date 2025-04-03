@@ -37,7 +37,18 @@ Saya siswa kelas 11 jurusan Rekayasa Perangkat Lunak (RPL) yang bersemangat dala
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JerryBugar&show_icons=true&theme=radical" alt="Statistik GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JerryBugar&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JerryBugar&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JerryBugar&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ## 🔝 Bahasa yang Sering Digunakan
